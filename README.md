@@ -1,4 +1,5 @@
 🌿 Minimo – Minimal Blog Theme
+
 A clean and minimal blog website built using HTML & CSS. Inspired by simplicity, elegance, and readability.
 
 📌 Features:
