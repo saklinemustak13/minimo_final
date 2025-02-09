@@ -199,6 +199,10 @@ header{
     border-radius: 0;
     cursor: pointer;
 }
+.l_button:hover{
+    background-color:#626262;
+    color: #000000;
+}
 /*loadmore end*/
 
 /*footer start*/
@@ -274,8 +278,6 @@ header{
 }
 
 .social ul li a img {
-    width: 20px;
-    height: 20px;
-    vertical-align: middle;
+vertical-align: middle;
 }
 /*footer end*/
